@@ -1,7 +1,7 @@
 package by.itstp.OlgaRabushko.Stage12.model.logic;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
+import org.junit.Assert;
 
 public class ChessLogicTest {
     @Test
@@ -1680,6 +1680,37 @@ public class ChessLogicTest {
         boolean actual = ChessLogic.checkKnight(x1, x2, y1, y2);
 
         assertEquals(expected, actual);
+    }
+    @Test
+    public void testCheckFoolProofPositive1() {
+        int x1 = 1;
+        int y1 = 1;
+        int x2 = 1;
+        int y2 = 1;
+
+        boolean expected = true;
+
+        boolean actual = ChessLogic.checkFoolProof(x1, y1, x2, y2);
+
+        if (expected != actual) {
+            Assert.fail();
+        }
+    }
+
+    @Test
+    public void testCheckFoolProofPositive2() {
+        int x1 = 8;
+        int y1 = 1;
+        int x2 = 9;
+        int y2 = 1;
+
+        boolean expected = true;
+
+        boolean actual = ChessLogic.checkFoolProof(x1, y1, x2, y2);
+
+        if (expected == actual) {
+            Assert.fail();
+        }
     }
 
 }
