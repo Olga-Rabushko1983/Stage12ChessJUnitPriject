@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fe463e0-6817-47ca-87c1-b807d1cdb0f1" name="Changes" comment="" />
+    <list default="true" id="8fe463e0-6817-47ca-87c1-b807d1cdb0f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage12ChessJUnitPriject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/by/itstp/OlgaRabushko/Stage12/model/logic/ChessLogicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/itstp/OlgaRabushko/Stage12/model/logic/ChessLogic.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Bl3cqhRUWxZuDYn82bd0UHDTtX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,9 +45,95 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/mama/junit",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Stage12ChessJUnitPriject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessLogicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage12ChessJUnitPriject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstp.OlgaRabushko.Stage12.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic.ChessLogicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessLogicTest.checkKnightNegativeTest20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage12ChessJUnitPriject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstp.OlgaRabushko.Stage12.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic.ChessLogicTest" />
+      <option name="METHOD_NAME" value="checkKnightNegativeTest20" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessLogicTest.checkKnightNegativeTest21" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage12ChessJUnitPriject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstp.OlgaRabushko.Stage12.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic.ChessLogicTest" />
+      <option name="METHOD_NAME" value="checkKnightNegativeTest21" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessLogicTest.checkKnightNegativeTest22" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Stage12ChessJUnitPriject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstp.OlgaRabushko.Stage12.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstp.OlgaRabushko.Stage12.model.logic.ChessLogicTest" />
+      <option name="METHOD_NAME" value="checkKnightNegativeTest22" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ChessLogicTest" />
+        <item itemvalue="JUnit.ChessLogicTest.checkKnightNegativeTest21" />
+        <item itemvalue="JUnit.ChessLogicTest.checkKnightNegativeTest22" />
+        <item itemvalue="JUnit.ChessLogicTest.checkKnightNegativeTest20" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
